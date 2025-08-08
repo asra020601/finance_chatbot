@@ -1,0 +1,13 @@
+streamlit
+requests
+pymupdf
+pdfplumber
+faiss-cpu
+numpy
+requests
+rank-bm25
+sentence-transformers
+torch
+langchain
+langchain-groq
+
